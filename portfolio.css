@@ -1,0 +1,1198 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="description" content="Portfolio of a B.Tech Computer Science student specializing in Artificial Intelligence and Machine Learning.">
+
+    <meta name="author" content="Your Name">
+
+    <title>Your Name | CSE AI/ML Student</title>
+
+    <!-- Google Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+
+    <style>
+
+    </style>
+</head>
+
+
+<body>
+
+    <!-- Background -->
+    <div class="background-grid"></div>
+    <div class="glow"></div>
+    <div class="glow-two"></div>
+
+
+    <!-- =====================================================
+         NAVIGATION
+    ====================================================== -->
+
+    <header>
+
+        <div class="container">
+
+            <nav>
+
+                <a href="#home" class="logo">
+                    SANSKRITI<span>SAHU.</span>
+                </a>
+
+
+                <ul class="nav-links" id="navLinks">
+
+                    <li>
+                        <a href="#home">Home</a>
+                    </li>
+
+                    <li>
+                        <a href="#about">About</a>
+                    </li>
+
+                    <li>
+                        <a href="#skills">Skills</a>
+                    </li>
+
+                    <li>
+                        <a href="#projects">Projects</a>
+                    </li>
+
+                    <li>
+                        <a href="#education">Education</a>
+                    </li>
+
+                    <li>
+                        <a href="#contact">Contact</a>
+                    </li>
+
+                </ul>
+
+
+                <div class="nav-actions">
+
+                    <button class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode">
+                        ☾
+                    </button>
+
+                    <button class="menu-toggle" id="menuToggle" aria-label="Open navigation menu">
+                        ☰
+                    </button>
+
+                </div>
+
+            </nav>
+
+        </div>
+
+    </header>
+
+
+    <!-- =====================================================
+         HERO
+    ====================================================== -->
+
+    <main>
+
+        <section class="hero" id="home">
+
+            <div class="container">
+
+                <div class="hero-grid">
+
+
+                    <div class="hero-content reveal">
+
+                        <div class="eyebrow">
+
+                            <span class="status-dot"></span>
+
+                            First-Year B.Tech CSE AI/ML Student
+
+                        </div>
+
+
+                        <h1>
+
+                            Building the
+
+                            <span class="gradient-text">
+                                future
+                            </span>
+
+                            with technology.
+
+                        </h1>
+
+
+                        <p class="hero-description">
+
+                            Hello, I'm <strong>Sanskriti Sahu</strong>.
+                            I am a first-year Computer Science student
+                            specializing in Artificial Intelligence and
+                            Machine Learning, passionate about building
+                            useful technology and continuously improving
+                            my technical skills.
+
+                        </p>
+
+
+                        <div class="hero-buttons">
+
+                            <a href="#projects" class="btn btn-primary">
+
+                                View Projects →
+
+                            </a>
+
+
+                            <a href="resume.pdf" download class="btn btn-secondary">
+
+                                Download Resume
+
+                            </a>
+
+                        </div>
+
+                    </div>
+
+
+                    <!-- AI VISUAL -->
+
+                    <div class="reveal">
+
+                        <div class="ai-visual">
+
+                            <div class="orbit"></div>
+                            <div class="orbit two"></div>
+                            <div class="orbit three"></div>
+
+                            <div class="node one"></div>
+                            <div class="node two"></div>
+                            <div class="node three"></div>
+                            <div class="node four"></div>
+
+                            <div class="ai-core"></div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- =====================================================
+             ABOUT
+        ====================================================== -->
+
+        <section id="about">
+
+            <div class="container">
+
+                <div class="section-heading reveal">
+
+                    <div class="section-label">
+                        About Me
+                    </div>
+
+                    <h2>
+                        Curious by nature.
+                        Technical by choice.
+                    </h2>
+
+                    <p>
+                        A quick introduction to who I am and
+                        what I am working toward.
+                    </p>
+
+                </div>
+
+
+                <div class="about-grid">
+
+
+                    <div class="profile-card reveal">
+
+                        <!--
+                            Replace this div with:
+
+                            <img
+                                src="profile.jpg"
+                                class="profile-photo"
+                                alt="Your Name">
+                        -->
+
+                        <div class="profile-placeholder">
+                            SS
+                        </div>
+
+                        <h3>
+                            Sanskriti Sahu
+                        </h3>
+
+                        <p>
+                            B.Tech CSE — AI/ML
+                        </p>
+
+                    </div>
+
+
+                    <div class="about-content reveal">
+
+                        <h3>
+                            Hello, I'm Sanskriti Sahu.
+                        </h3>
+
+                        <p>
+                            I am currently pursuing my B.Tech in
+                            Computer Science Engineering with a focus
+                            on Artificial Intelligence and Machine
+                            Learning.
+                        </p>
+
+                        <p>
+                            As a fresher, my current focus is building
+                            strong foundations in programming,
+                            problem-solving, data structures,
+                            web development and AI/ML.
+                        </p>
+
+                        <p>
+                            I believe in learning by building.
+                            My long-term goal is to become a strong
+                            software engineer capable of creating
+                            intelligent, reliable and useful products.
+                        </p>
+
+
+                        <div class="quick-info">
+
+                            <div class="info-item">
+
+                                <small>
+                                    Education
+                                </small>
+
+                                <strong>
+                                    B.Tech CSE — AI/ML
+                                </strong>
+
+                            </div>
+
+
+                            <div class="info-item">
+
+                                <small>
+                                    Current Level
+                                </small>
+
+                                <strong>
+                                    First Year
+                                </strong>
+
+                            </div>
+
+
+                            <div class="info-item">
+
+                                <small>
+                                    Primary Interest
+                                </small>
+
+                                <strong>
+                                    AI & Machine Learning
+                                </strong>
+
+                            </div>
+
+
+                            <div class="info-item">
+
+                                <small>
+                                    Career Goal
+                                </small>
+
+                                <strong>
+                                    Software / AI Engineer
+                                </strong>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- =====================================================
+             SKILLS
+        ====================================================== -->
+
+        <section id="skills">
+
+            <div class="container">
+
+                <div class="section-heading reveal">
+
+                    <div class="section-label">
+                        Technical Skills
+                    </div>
+
+                    <h2>
+                        Foundations first.
+                        Mastery next.
+                    </h2>
+
+                    <p>
+                        The technologies and concepts I am currently
+                        learning and developing.
+                    </p>
+
+                </div>
+
+
+                <div class="skills-grid">
+
+
+                    <div class="skill-card reveal">
+
+                        <div class="skill-icon">
+                            &lt;/&gt;
+                        </div>
+
+                        <h3>
+                            Programming
+                        </h3>
+
+                        <p>
+                            Building strong programming fundamentals
+                            and problem-solving ability.
+                        </p>
+
+                        <div class="tags">
+
+                            <span class="tag">C</span>
+                            <span class="tag">C++</span>
+                            <span class="tag">Python</span>
+                            <span class="tag">JavaScript</span>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="skill-card reveal">
+
+                        <div class="skill-icon">
+                            ◈
+                        </div>
+
+                        <h3>
+                            Web Development
+                        </h3>
+
+                        <p>
+                            Learning how modern responsive websites
+                            and interfaces are designed.
+                        </p>
+
+                        <div class="tags">
+
+                            <span class="tag">HTML</span>
+                            <span class="tag">CSS</span>
+                            <span class="tag">JavaScript</span>
+                            <span class="tag">Responsive Design</span>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="skill-card reveal">
+
+                        <div class="skill-icon">
+                            AI
+                        </div>
+
+                        <h3>
+                            AI / ML
+                        </h3>
+
+                        <p>
+                            Developing the mathematical and Python
+                            foundations required for machine learning.
+                        </p>
+
+                        <div class="tags">
+
+                            <span class="tag">Python</span>
+                            <span class="tag">NumPy</span>
+                            <span class="tag">Pandas</span>
+                            <span class="tag">ML Fundamentals</span>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="skill-card reveal">
+
+                        <div class="skill-icon">
+                            DS
+                        </div>
+
+                        <h3>
+                            Computer Science
+                        </h3>
+
+                        <p>
+                            Strengthening core CS concepts for future
+                            software engineering roles.
+                        </p>
+
+                        <div class="tags">
+
+                            <span class="tag">DSA</span>
+                            <span class="tag">OOP</span>
+                            <span class="tag">Algorithms</span>
+                            <span class="tag">SQL</span>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="skill-card reveal">
+
+                        <div class="skill-icon">
+                            Git
+                        </div>
+
+                        <h3>
+                            Tools
+                        </h3>
+
+                        <p>
+                            Learning professional development workflows
+                            and developer tools.
+                        </p>
+
+                        <div class="tags">
+
+                            <span class="tag">Git</span>
+                            <span class="tag">GitHub</span>
+                            <span class="tag">VS Code</span>
+                            <span class="tag">Arduino</span>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="skill-card reveal">
+
+                        <div class="skill-icon">
+                            +
+                        </div>
+
+                        <h3>
+                            Soft Skills
+                        </h3>
+
+                        <p>
+                            Developing the communication and
+                            collaboration skills required in teams.
+                        </p>
+
+                        <div class="tags">
+
+                            <span class="tag">Problem Solving</span>
+                            <span class="tag">Communication</span>
+                            <span class="tag">Teamwork</span>
+                            <span class="tag">Learning</span>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- =====================================================
+             PROJECTS
+        ====================================================== -->
+
+        <section id="projects">
+
+            <div class="container">
+
+                <div class="section-heading reveal">
+
+                    <div class="section-label">
+                        Projects
+                    </div>
+
+                    <h2>
+                        Learn by building.
+                    </h2>
+
+                    <p>
+                        A selection of projects demonstrating my
+                        learning journey.
+                    </p>
+
+                </div>
+
+
+                <div class="projects-grid">
+
+
+                    <article class="project-card reveal">
+
+                        <div class="project-image">
+                            🧠
+                        </div>
+
+                        <div class="project-content">
+
+                            <div class="project-category">
+                                AI / ML
+                            </div>
+
+                            <h3>
+                                AI Learning Project
+                            </h3>
+
+                            <p>
+                                A machine-learning project designed
+                                to explore data preprocessing,
+                                model training and evaluation.
+                            </p>
+
+                            <div class="tags">
+
+                                <span class="tag">
+                                    Python
+                                </span>
+
+                                <span class="tag">
+                                    Pandas
+                                </span>
+
+                                <span class="tag">
+                                    Scikit-learn
+                                </span>
+
+                            </div>
+
+                            <br>
+
+                            <div class="project-links">
+
+                                <a href="#">
+                                    GitHub →
+                                </a>
+
+                                <a href="#">
+                                    Details →
+                                </a>
+
+                            </div>
+
+                        </div>
+
+                    </article>
+
+
+                    <article class="project-card reveal">
+
+                        <div class="project-image">
+                            ⚡
+                        </div>
+
+                        <div class="project-content">
+
+                            <div class="project-category">
+                                Embedded / IoT
+                            </div>
+
+                            <h3>
+                                ESP32 Project
+                            </h3>
+
+                            <p>
+                                An electronics project exploring
+                                microcontrollers, sensors and
+                                real-time interaction.
+                            </p>
+
+                            <div class="tags">
+
+                                <span class="tag">
+                                    ESP32
+                                </span>
+
+                                <span class="tag">
+                                    Arduino
+                                </span>
+
+                                <span class="tag">
+                                    Sensors
+                                </span>
+
+                            </div>
+
+                            <br>
+
+                            <div class="project-links">
+
+                                <a href="#">
+                                    GitHub →
+                                </a>
+
+                                <a href="#">
+                                    Details →
+                                </a>
+
+                            </div>
+
+                        </div>
+
+                    </article>
+
+
+                    <article class="project-card reveal">
+
+                        <div class="project-image">
+                            ◷
+                        </div>
+
+                        <div class="project-content">
+
+                            <div class="project-category">
+                                Web / JavaScript
+                            </div>
+
+                            <h3>
+                                Stopwatch & Timer
+                            </h3>
+
+                            <p>
+                                A responsive browser-based stopwatch
+                                and timer built to practice JavaScript
+                                logic and DOM manipulation.
+                            </p>
+
+                            <div class="tags">
+
+                                <span class="tag">
+                                    HTML
+                                </span>
+
+                                <span class="tag">
+                                    CSS
+                                </span>
+
+                                <span class="tag">
+                                    JavaScript
+                                </span>
+
+                            </div>
+
+                            <br>
+
+                            <div class="project-links">
+
+                                <a href="#">
+                                    GitHub →
+                                </a>
+
+                                <a href="#">
+                                    Live Demo →
+                                </a>
+
+                            </div>
+
+                        </div>
+
+                    </article>
+
+
+                </div>
+
+        </section>
+
+
+        <!-- =====================================================
+             EDUCATION
+        ====================================================== -->
+
+        <section id="education">
+
+            <div class="container">
+
+                <div class="section-heading reveal">
+
+                    <div class="section-label">
+                        Education
+                    </div>
+
+                    <h2>
+                        My academic journey.
+                    </h2>
+
+                </div>
+
+
+                <div class="timeline">
+
+
+                    <div class="timeline-item reveal">
+
+                        <div class="timeline-dot"></div>
+
+                        <div class="timeline-date">
+                            2026 — Present
+                        </div>
+
+                        <h3>
+                            B.Tech — Computer Science Engineering
+                        </h3>
+
+                        <p>
+                            Specialization: Artificial Intelligence
+                            & Machine Learning
+                        </p>
+
+                        <p>
+                            From Geeta University x NIAT Panipat, Delhi NCR
+                        </p>
+
+                    </div>
+
+
+                    <div class="timeline-item reveal">
+
+                        <div class="timeline-dot"></div>
+
+                        <div class="timeline-date">
+                            2024 — 2026
+                        </div>
+
+                        <h3>
+                            Senior Secondary Education
+                        </h3>
+
+                        <p>
+                            From Jwahar vidya Mandir Shayamali Ranchi, Jharkhand
+                        </p>
+
+                    </div>
+
+
+                    <div class="timeline-item reveal">
+
+                        <div class="timeline-dot"></div>
+
+                        <div class="timeline-date">
+                            2022 — 2024
+                        </div>
+
+                        <h3>
+                            Secondary Education
+                        </h3>
+
+                        <p>
+                            From Bishop Westtcort Girl's School Doranda Ranchi, Jharkhand
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- =====================================================
+             LEARNING JOURNEY
+        ====================================================== -->
+
+        <section>
+
+            <div class="container">
+
+                <div class="learning-box reveal">
+
+                    <div class="section-label">
+                        Currently Learning
+                    </div>
+
+                    <h2>
+                        Building my foundation.
+                    </h2>
+
+                    <p>
+                        My current learning roadmap focuses on
+                        programming fundamentals, Data Structures
+                        and Algorithms, Python, mathematics for
+                        machine learning, web development and
+                        practical AI/ML projects.
+                    </p>
+
+
+                    <div class="tags" style="justify-content:center">
+
+                        <span class="tag">
+                            Python
+                        </span>
+
+                        <span class="tag">
+                            DSA
+                        </span>
+
+                        <span class="tag">
+                            Git & GitHub
+                        </span>
+
+                        <span class="tag">
+                            Machine Learning
+                        </span>
+
+                        <span class="tag">
+                            Web Development
+                        </span>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- =====================================================
+             CONTACT
+        ====================================================== -->
+
+        <section id="contact">
+
+            <div class="container">
+
+                <div class="contact-box reveal">
+
+
+                    <div>
+
+                        <div class="section-label">
+                            Contact
+                        </div>
+
+                        <h2>
+                            Let's build
+                            something useful.
+                        </h2>
+
+                        <p>
+                            Whether it's a project, collaboration,
+                            learning opportunity or simply a
+                            technical conversation, feel free to
+                            connect with me.
+                        </p>
+
+                    </div>
+
+
+                    <div class="contact-links">
+
+
+                        <a href="mailto:your.email@example.com" class="contact-link">
+
+                            <div class="contact-icon">
+                                ✉
+                            </div>
+
+                            <div>
+
+                                <small>
+                                    Email
+                                </small>
+
+                                <strong>
+                                    sanskritisahu790@gmail.com
+                                </strong>
+
+                            </div>
+
+                        </a>
+
+
+                        <a href="https://github.com/" target="_blank" class="contact-link">
+
+                            <div class="contact-icon">
+                                GH
+                            </div>
+
+                            <div>
+
+                                <small>
+                                    GitHub
+                                </small>
+
+                                <strong>
+                                    https://github.com/sanskritisahu04-dot
+                                </strong>
+
+                            </div>
+
+                        </a>
+
+
+                        <a href="https://www.linkedin.com/" target="_blank" class="contact-link">
+
+                            <div class="contact-icon">
+                                in
+                            </div>
+
+                            <div>
+
+                                <small>
+                                    LinkedIn
+                                </small>
+
+                                <strong>
+                                    linkedin.com/in/sanskriti-sahu-307b60433
+                                </strong>
+
+                            </div>
+
+                        </a>
+
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+    </main>
+
+
+    <!-- =====================================================
+         FOOTER
+    ====================================================== -->
+
+    <footer>
+
+        <div class="container">
+
+            <div class="footer-content">
+
+                <p>
+                    © 2026 Sanskriti Sahu. All rights reserved.
+                </p>
+
+                <p>
+                    Designed & built with HTML, CSS & JavaScript.
+                </p>
+
+            </div>
+
+        </div>
+
+    </footer>
+
+
+    <!-- =====================================================
+         JAVASCRIPT
+    ====================================================== -->
+
+    <script>
+        /* =====================================================
+           DARK MODE
+        ===================================================== */
+
+        const themeToggle =
+            document.getElementById("themeToggle");
+
+        const savedTheme =
+            localStorage.getItem("theme");
+
+        if (savedTheme === "dark") {
+
+            document.body.classList.add("dark");
+
+            themeToggle.textContent = "☀";
+
+        }
+
+
+        themeToggle.addEventListener("click", () => {
+
+            document.body.classList.toggle("dark");
+
+            const isDark =
+                document.body.classList.contains("dark");
+
+            themeToggle.textContent =
+                isDark ? "☀" : "☾";
+
+            localStorage.setItem(
+                "theme",
+                isDark ? "dark" : "light"
+            );
+
+        });
+
+
+        /* =====================================================
+           MOBILE MENU
+        ===================================================== */
+
+        const menuToggle =
+            document.getElementById("menuToggle");
+
+        const navLinks =
+            document.getElementById("navLinks");
+
+
+        menuToggle.addEventListener("click", () => {
+
+            navLinks.classList.toggle("open");
+
+        });
+
+
+        document
+            .querySelectorAll(".nav-links a")
+            .forEach(link => {
+
+                link.addEventListener("click", () => {
+
+                    navLinks.classList.remove("open");
+
+                });
+
+            });
+
+
+        /* =====================================================
+           SCROLL REVEAL
+        ===================================================== */
+
+        const revealElements =
+            document.querySelectorAll(".reveal");
+
+
+        const observer =
+            new IntersectionObserver(
+
+                entries => {
+
+                    entries.forEach(entry => {
+
+                        if (entry.isIntersecting) {
+
+                            entry.target.classList.add("active");
+
+                            observer.unobserve(
+                                entry.target
+                            );
+
+                        }
+
+                    });
+
+                },
+
+                {
+                    threshold: 0.12
+                }
+
+            );
+
+
+        revealElements.forEach(element => {
+
+            observer.observe(element);
+
+        });
+
+
+        /* =====================================================
+           ACTIVE NAVIGATION
+        ===================================================== */
+
+        const sections =
+            document.querySelectorAll("section[id]");
+
+        const links =
+            document.querySelectorAll(".nav-links a");
+
+
+        window.addEventListener("scroll", () => {
+
+            let current = "";
+
+            sections.forEach(section => {
+
+                const sectionTop =
+                    section.offsetTop - 150;
+
+                if (
+                    window.scrollY >= sectionTop
+                ) {
+
+                    current =
+                        section.getAttribute("id");
+
+                }
+
+            });
+
+
+            links.forEach(link => {
+
+                link.style.color = "";
+
+                if (
+                    link.getAttribute("href") ===
+                    "#" + current
+                ) {
+
+                    link.style.color =
+                        "var(--primary)";
+
+                }
+
+            });
+
+        });
+    </script>
+
+</body>
+
+</html>
